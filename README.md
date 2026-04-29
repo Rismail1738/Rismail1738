@@ -48,5 +48,5 @@ CS grad building at the intersection of machine learning, distributed systems, a
 - 💬 Ask me about ML & data
 
 ## 🤝 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ruweida-ismail-107703215/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/ruweida-ismail-107703215/)])
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Ruweidaismail3@gmail.com)
