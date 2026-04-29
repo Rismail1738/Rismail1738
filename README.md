@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruweida Ismail
 
-CS grad building at the intersection of machine learning, distributed systems, and real-world problem solving — one project at a time.
+CS grad building at the intersection of machine learning, distributed systems, and real-world problem solving,one project at a time.
 
 ---
 
